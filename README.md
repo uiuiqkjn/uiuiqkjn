@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)    ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)   ![](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)   ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uiuiqkjn&layout=compact&theme=transparent) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uiuiqkjn&layout=compact&theme=transparent) ![GitHub Streak](https://streak-stats.demolab.com/?user=uiuiqkjn&theme=dark)
 
 
 
