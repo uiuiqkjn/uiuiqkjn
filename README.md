@@ -34,4 +34,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uiuiqkjn/uiuiqkjn/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
