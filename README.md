@@ -33,4 +33,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uiuiqkjn/uiuiqkjn/output/github-contribution-grid-snake.svg">
 </picture>
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uiuiqkjn&theme=react-dark)
+
 ![](./profile-3d-contrib/profile-night-green.svg)
