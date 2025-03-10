@@ -5,6 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uiuiqkjn&layout=compact&theme=transparent)  
  ![](https://github-readme-stats.vercel.app/api?username=uiuiqkjn&show_icons=true&theme=transparent) 
 
+![](https://raw.githubusercontent.com/uiuiqkjn/uiuiqkjn/main/dist/github-contribution-grid-snake.svg)
+
 
 ---
 
