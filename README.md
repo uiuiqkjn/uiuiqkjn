@@ -25,4 +25,5 @@
 
 ✨ Thanks for visiting my profile! Let’s build something amazing together! 😊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiuiqkjn)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/uiuiqkjn/uiuiqkjn/main/dist/github-contribution-grid-snake.svg)
