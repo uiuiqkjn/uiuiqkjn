@@ -8,10 +8,6 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uiuiqkjn&layout=compact&theme=transparent) ![GitHub Streak](https://streak-stats.demolab.com/?user=uiuiqkjn&theme=dark)
-
----
-
 ### Hi there 👋, I'm @uiuiqkjn!
 
 - 🔭 I’m currently working on **exciting Python projects** and exploring **AI/ML frameworks**.  
