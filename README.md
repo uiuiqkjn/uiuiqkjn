@@ -19,6 +19,16 @@
 - 💬 Ask me about anything related to **Python**, **C++**, or **open-source contributions**!  
 - ⚡ Fun fact: I love solving puzzles and building tools to make life easier.
 
+
+
+---
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uiuiqkjn&theme=react-dark)
+
+---
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
 ---
 
 ✨ Thanks for visiting my profile! Let’s build something amazing together! 😊
@@ -29,12 +39,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uiuiqkjn/uiuiqkjn/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uiuiqkjn/uiuiqkjn/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uiuiqkjn&theme=react-dark)
-
----
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
