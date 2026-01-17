@@ -14,6 +14,7 @@ Outside of research, I enjoy **playing badminton** and keeping up with the lates
 ## 📫 Contact
 - Email: ezuiplot@gmail.com  
 - GitHub: [uiuiqkjn](https://github.com/uiuiqkjn)
+- Homepage: [咕噜咕哩布's Blog](https://uiuiqkjn.github.io/)
 
 ✨ Thanks for visiting my profile! Let’s build something amazing together! 😊
 
